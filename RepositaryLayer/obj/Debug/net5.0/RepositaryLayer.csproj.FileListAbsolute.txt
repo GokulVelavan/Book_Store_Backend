@@ -1,0 +1,15 @@
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\bin\Debug\net5.0\RepositaryLayer.deps.json
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\bin\Debug\net5.0\RepositaryLayer.dll
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\bin\Debug\net5.0\ref\RepositaryLayer.dll
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\bin\Debug\net5.0\RepositaryLayer.pdb
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.csproj.AssemblyReference.cache
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.AssemblyInfoInputs.cache
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.AssemblyInfo.cs
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.csproj.CoreCompileInputs.cache
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.csproj.CopyComplete
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.dll
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\ref\RepositaryLayer.dll
+C:\Users\INFINITY\source\repos\Book_Store\RepositaryLayer\obj\Debug\net5.0\RepositaryLayer.pdb
