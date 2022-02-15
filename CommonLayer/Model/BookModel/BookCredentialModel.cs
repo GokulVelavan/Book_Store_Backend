@@ -4,19 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CommonLayer.Model.FeedBackModel
+namespace CommonLayer.Model.BookModel
 {
-    public class FeedBackResponseModel
+    public class BookCredentialModel
     {
-        
         public long BookId { get; set; }
 
-       
-        public string FeedBack { get; set; }
-
-        public long Ratings { get; set; }
-
-     
         public long UserId { get; set; }
     }
 }
